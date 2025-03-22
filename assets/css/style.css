@@ -35,7 +35,7 @@ body {
 }
 
 .navbar .nama-nav span {
-    color: #00388C;
+    color: #252669;
 }
 
 .navbar .navigasi a {
@@ -46,14 +46,14 @@ body {
 }
 
 .navbar .navigasi a:hover {
-    color: #00388C;
+    color: #252669;
 }
 
 .navbar .navigasi a::after {
     content: '';
     display: block;
     padding-bottom: 0.5rem;
-    border-bottom: 0.1rem solid #00388C;
+    border-bottom: 0.1rem solid #252669;
     transform: scaleX(0);
     transition: 0.2s linear;
 }
@@ -68,7 +68,7 @@ body {
 }
 
 .navbar .nav-logo a:hover {
-    color: #00388C;
+    color: #252669;
 }
 
 #hamburger {
